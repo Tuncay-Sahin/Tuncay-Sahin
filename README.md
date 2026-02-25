@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Tuncay-Sahin  
-- 👀 I’m interested in Data Science & CS, modular documentation, Python, and collaborative technical education with AI-augmented learning.  
-- 🌱 I’m currently learning Python for data science and analysis, modular documentation pipelines, and AI-enhanced learning in finance — while developing personal growth as modular releases.  
-- 💞️ I’m looking to collaborate on projects that integrate Data Science with modular growth through MY Versioning System. Always iterating. Always modular. v2026: Technical Individual in progress.  
-- 📫 Reach me via GitHub.
+  Hi, I’m @Tuncay-Sahin. 
+  
+I’m focused on Data Science and structured analytical thinking, with a growing foundation in Computer Science.
+
+My work centers around Python for data analysis, reproducible workflows, modular documentation systems, and AI-augmented learning.
+
+Currently building portfolio-driven projects to strengthen my foundations in data analysis, statistics, and applied problem solving.
+
+Open to collaborating on projects that value clarity, structure, and continuous technical improvement.
+
+Iterating toward technical excellence — one version at a time.
 
 <!---
 Tuncay-Sahin/Tuncay-Sahin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
